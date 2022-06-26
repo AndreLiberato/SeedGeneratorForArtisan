@@ -16,5 +16,7 @@ cmake --build build
 
 # Parâmetros 
 `example.txt` -> Arquivo de entrada localizado em `./data/in`
+
 `example_table` -> Nome da tabela no qual a seed vai atuar e também o nome do arquivo de saída.
+
 `column_name` -> Nome da columa onde a informações serão adicionadas 
